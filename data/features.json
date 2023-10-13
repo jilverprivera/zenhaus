@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "sl-2",
+    "title": "Test your sensors.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at diam egestas, tempor purus et, tempor neque. Aliquam erat volutpat. Curabitur quis arcu in velit malesuada gravida. ",
+    "imageUrl": ""
+  },
+  {
+    "slug": "sl-1",
+    "title": "Supervise your spaces.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at diam egestas, tempor purus et, tempor neque. Aliquam erat volutpat. Curabitur quis arcu in velit malesuada gravida. ",
+    "imageUrl": ""
+  },
+  {
+    "slug": "sl-3",
+    "title": "Analyze your data",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at diam egestas, tempor purus et, tempor neque. Aliquam erat volutpat. Curabitur quis arcu in velit malesuada gravida. ",
+    "imageUrl": ""
+  },
+  {
+    "slug": "sl-4",
+    "title": "Generate reports.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at diam egestas, tempor purus et, tempor neque. Aliquam erat volutpat. Curabitur quis arcu in velit malesuada gravida. ",
+    "imageUrl": ""
+  }
+]
